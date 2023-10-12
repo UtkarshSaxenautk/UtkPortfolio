@@ -30,6 +30,8 @@ import typing from "./typing.png";
 import bill from "./bill.png"
 
 import resume from "./resume.pdf";
+import rabbitMq from './tech/rabbitMq.png'
+import java from './tech/Java.png'
 
 export {
   logo,
@@ -55,6 +57,8 @@ export {
   wizwack,
   golang,
   c,
+  rabbitMq,
+  java,
   htmlop,
   typing,
   bill,
