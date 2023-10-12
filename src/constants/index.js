@@ -23,7 +23,11 @@ import {
     bill,
   } from "../assets";
   
-  export const navLinks = [
+export const navLinks = [
+  {
+      id: "resume",
+      title: "Resume",
+    },
     {
       id: "about",
       title: "About",
@@ -32,10 +36,12 @@ import {
       id: "work",
       title: "Work",
     },
+    
     {
       id: "contact",
       title: "Contact",
     },
+    
   ];
   
   const services = [
