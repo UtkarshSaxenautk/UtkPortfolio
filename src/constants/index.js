@@ -123,7 +123,7 @@ const experiences = [
       title: "Software Engineer Intern",
       company_name: "RabbitLoader",
       icon: loder,
-      iconBg: "#383E56",
+      iconBg: "#287FFD",
       date: "Aug 2022 – present",
       points: [
         "Developed Microservices for RabbitLoader using Golang as per market standards to provide 100-page speed., improving system efficiency using RabbitMQ for asynchronous communication",
@@ -136,7 +136,7 @@ const experiences = [
       title: "Full Stack Developer Intern ",
       company_name: "Wizwack",
       icon: wizwack,
-      iconBg: "#383E56",
+      iconBg: "#FFFEFE",
       date: "May 2022 – Aug 2022 ",
       points: [
         "Worked on different services based on Firebase(Pub/Sub) for game backend using cloud services(GCP) dealing with hundreds of users at a time.",
