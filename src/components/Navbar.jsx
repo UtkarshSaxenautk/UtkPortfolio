@@ -80,7 +80,7 @@ const Navbar = () => {
               {navLinks.map((nav) => (
                 <li
                   key={nav.id}
-                  className={`font-pins font-medium cursor-pointer text-[16px] ${
+                  className={`font-Montserrat font-medium cursor-pointer text-[16px] ${
                     active === nav.title ? "text-white" : "text-secondary"
                   }`}
                   onClick={() => {
